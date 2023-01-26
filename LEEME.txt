@@ -1,0 +1,27 @@
+Hola Gustavo.
+
+Si estás leyendo esto es porque estoy muerto. Me han tendido una trampa y he automatizado
+este mensaje si el chip que tengo integrado desde que me vacuné de la Covid-19 detectaba
+que mi corazón dejaba de latir.
+
+Últimamente he estado bailando con malas compañías por mi ambición de saber más y más
+sobre DataScience. Al final, he tenido que pagar un precio: mi vida.
+
+Más allá de las tonterías, primero quiero agradecerte la paciencia que has tenido con todos
+durante el curso. Docentes como tú, muy muy pocos, espero que The Bridge sepa valorarte como sé
+que te valoramos yo y el resto de compañeros.
+
+Por circunstancias de la vida, he retrasado mucho este proyecto de la librería, de hecho ni he ido 
+a clase apenas desde noviembre. Empecé con la librería hace una semana aprox, el día que os enseñé
+lo que había hecho. Al final, pues no he podido hacer lo que quería, pero bueno, te dejo este 
+pequeño intento de modelo de predicción con series temporales. Demasiado simple y básico.
+
+Me llevo conmigo el ser capaz de ir a más desde este punto, y con ganas de aplicarlo en el curro.
+De hecho acabo de descubrir el término "Data SEO", profesionales SEO que se dedican a ello con Data Science,
+Machine Learning y demás. Es algo que me ha entusiasmado mucho, y ahora tengo una base.
+
+Nada más que decir, siento mucho no haber sido tan participativo estos últimos meses, sé que me he quedado atrás
+y no he aprovechado al máximo el Bootcamp, pero rescato bastante de todas formas. Han sido con estos proyectos
+cuando más he avanzado.
+
+Un saludo y recuerda, este mensaje se autodestruirá en 10, 9, 8...
