@@ -1,0 +1,7 @@
+README.md
+pyproject.toml
+setup.cfg
+src/pryecto_ds_thebridge.egg-info/PKG-INFO
+src/pryecto_ds_thebridge.egg-info/SOURCES.txt
+src/pryecto_ds_thebridge.egg-info/dependency_links.txt
+src/pryecto_ds_thebridge.egg-info/top_level.txt
