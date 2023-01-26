@@ -25,3 +25,15 @@ y no he aprovechado al máximo el Bootcamp, pero rescato bastante de todas forma
 cuando más he avanzado.
 
 Un saludo y recuerda, este mensaje se autodestruirá en 10, 9, 8...
+
+Mierda se me ha olvidado decir lo que quería y ahora tengo que hacer un git "finalfinalfinal". Pero joder,
+cómo manejo ahora Git Bash! En el bus desde Vitoria a Madrid (justo ahora en Barajas haciendo una parada)
+mientras curraba he podido conectar el PC del curro (porque el mío está en la maleta) al repo de Git, bajármelo,
+hacer cambios, borrar archivos, añadirlo y sobre todo, coger soltura con ello, qué maravilla!
+
+A lo que iba, ayer subí a test.pypi mi librería, y aunque no he actualizado los últimos cambios que he hecho
+una parte del trayecto cuando he terminado de currar, ahí está. Dentro del repo, los archivos están dentro de la
+carpeta src->mypackage. He dejado varios csv y excel para juguetear un poco con ello, el borrador (que no pude
+hacer lo que quería hacer porque me faltaba tiempo) y el final, de 5.gracias.
+
+Ahora sí, este mensaje se autodestruirá en 7, 6, 5...
